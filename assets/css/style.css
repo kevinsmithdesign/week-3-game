@@ -1,0 +1,139 @@
+		body {
+			font-family:helvetica;
+			text-align:center;
+			
+
+		}
+		
+		.container {
+			background-color:;
+			color:white;
+			padding:10px;
+			width:70%;
+			margin:0 auto;
+		}
+
+		.title {
+			background-color:black;
+			color:white;
+			padding:20px;
+			
+			width:100%;
+			margin:0 auto;
+			position:fixed;
+			top:0;
+			left:0;
+
+
+
+		}
+
+		.tagline {
+			color:black;
+			padding:10px;
+			font-size:26px;	
+
+		}
+
+		#win {
+			background-color:green;
+			width:220px;
+			margin-left:190px;
+			margin-top:-19px;
+			padding:20px;
+			border:3px solid black;
+			font-size:40px;
+			font-weight:bold;
+			font-family: 'Russo One', sans-serif;
+		}
+
+		 .losses {
+			background-color:black;
+			width:220px;
+			margin-left:510px;
+			margin-top:-180px;
+			/* padding:3px; */ 
+			padding:20px;
+			border:3px solid black;
+			font-family: 'Russo One', sans-serif;
+			letter-spacing: 1px;
+		}
+
+		.wins {
+			background-color:black;
+			width:220px;
+			margin-left:190px;
+			margin-top:-18px;
+			/* padding:3px; */ 
+			padding:20px;
+			border:3px solid black;
+			font-family: 'Russo One', sans-serif;
+			letter-spacing:1px;	
+
+		}
+		
+
+			
+
+		#loss {
+			background-color:red;
+			width:220px;
+			margin-left:510px;
+			margin-top:-19px;
+			padding:20px;
+			border:3px solid black;
+			font-size:40px;
+			font-weight:bold;
+			font-family: 'Russo One', sans-serif;
+
+		}
+
+		.guesses {
+			background-color:black;
+			width:220px;
+			margin-left:190px;
+			padding:20px;
+			border:3px solid black;
+						font-family: 'Russo One', sans-serif;
+			letter-spacing:1px;
+		}
+
+		#guesses {
+			background-color:grey;
+			width:220px;
+			margin-left:190px;
+			margin-top:-19px;
+			padding:20px;
+			border:3px solid black;
+			font-family: 'Russo One', sans-serif;
+			font-size:40px;
+			font-weight:bold;
+			
+		}
+
+		#lettersGuessed {
+			background-color:grey;
+			width:220px;
+			height:48px;
+			margin-left:510px;
+			margin-top:-19px;
+			padding:20px;
+			border:3px solid black;
+			font-family: 'Russo One', sans-serif;
+			font-size:15px;
+			
+			
+		}
+
+		.guessesf {
+			background-color:black;
+			width:220px;
+			margin-left:510px;
+			margin-top:-180px;
+			padding:20px;
+			border:3px solid black;
+						font-family: 'Russo One', sans-serif;
+			letter-spacing:1px;
+
+
+		}
